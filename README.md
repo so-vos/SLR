@@ -23,14 +23,16 @@ This folder contains the spreadsheet [Selection&Extraction&Synthesis_SLR_Vosetal
 
 ### Phase 3: [Analysis & Visualization](https://github.com/sophie-vos/SLR/tree/main/Phase%203:%20Analysis%20%26%20Visualization)
 
-* [data.csv](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/data.csv)
-* [datavizipynb](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/dataviz.ipynb) 
-* [results](https://github.com/sophie-vos/SLR/tree/main/Phase%203:%20Analysis%20%26%20Visualization/results)
-* [rejected.csv](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/rejected.csv)
-* [selected.csv](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/selected.csv) 
-* [characteristics.ipynb](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/characteristics.ipynb)
-* [characteristics](https://github.com/sophie-vos/SLR/tree/main/Phase%203:%20Analysis%20%26%20Visualization/characteristics) 
+This folder contains the data, python scripts, and figures of the results from the data synthesis and characteristics of the studies.
 
-### Report
+* [data.csv](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/data.csv): the extracted labels for each primary study.
+* [dataviz.ipynb](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/dataviz.ipynb): python script to generate the figures from data.csv.
+* [results](https://github.com/sophie-vos/SLR/tree/main/Phase%203:%20Analysis%20%26%20Visualization/results): output from dataviz.ipynb.
+* [rejected.csv](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/rejected.csv): the characterestics of the queried studies that are rejected as a primary study.
+* [selected.csv](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/selected.csv): the characteristics of the primary studies.
+* [characteristics.ipynb](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/characteristics.ipynb): python script to visualize the characteristics of the rejected and selected studies.
+* [characteristics](https://github.com/sophie-vos/SLR/tree/main/Phase%203:%20Analysis%20%26%20Visualization/characteristics): output from characteristics.ipynb.
 
-Final [report]() containing a thoroug description of the research method and results.
+### [Report]()
+
+Final report containing a detailed description of the research method and results.
