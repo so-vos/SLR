@@ -1,4 +1,4 @@
-# Software-Driven Strategies to Reduce the Energy Footprint ofData Centers: A Systematic Literature Review
+# Software-Driven Strategies to Reduce the Energy Footprint of Data Centers: A Systematic Literature Review
 ## **Sophie Vos**, Chirstiaan Beels, Floris Boeve, Patricia Lago - *Vrije Universiteit Amsterdam* - 2021
 
 ### Phase 1: [Initial Search & Preprocessing](https://github.com/sophie-vos/SLR/tree/main/Phase%201:%20Preprocessing%20%26%20Search)
