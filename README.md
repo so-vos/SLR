@@ -33,6 +33,6 @@ This folder contains the data, python scripts, and figures of the results from t
 * [characteristics.ipynb](https://github.com/sophie-vos/SLR/blob/main/Phase%203:%20Analysis%20%26%20Visualization/characteristics.ipynb): python script to visualize the characteristics of the rejected and selected studies.
 * [characteristics](https://github.com/sophie-vos/SLR/tree/main/Phase%203:%20Analysis%20%26%20Visualization/characteristics): output from characteristics.ipynb.
 
-### [Report]()
+### [Report](https://github.com/sophie-vos/SLR/blob/main/Report.pdf)
 
 Final report containing a detailed description of the research method and results.
